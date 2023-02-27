@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Mono:wght@400;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  font-family: "Mono", sans-serif;
+    background-color: black;
+}
+.card{
+
+  /* background-color: blueviolet; */
+  border-radius: 15px;
+  justify-items: center;
+}
+h1{
+  font-family: cursive;
+  font-size: 45px
+  
+}
